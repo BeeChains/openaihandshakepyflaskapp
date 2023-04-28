@@ -1,6 +1,6 @@
 # openaihandshakepyflaskapp | dns-to-image | innerigpt
 
-Open AI Handshake Python Flask App - Flask app for generating images based on prompts for Handshake domains
+Open AI Handshake Python Flask App for generating images based on prompts for Handshake domains, dns-to-image!
 
 This Flask app uses the OpenAI API to generate images based on prompts for Handshake domains. It requires a Handshake resolver set up and running on http://localhost:8080, and a valid OpenAI API key. This app uses the pyhandshake library to interact with a local Handshake resolver and get the address for the SLD. You would need to make sure that your local resolver is set up and running on http://localhost:8080, and that the innerigpt SLD is registered on the Handshake blockchain.
 
