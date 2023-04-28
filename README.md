@@ -9,7 +9,7 @@ To run this app, you would also need to install the pyhandshake library in addit
 # Installation:
 <ul>Install Python 3.6 or later if it is not already installed.
 
-Clone this repository ``` git clone ``` or download the ZIP file and extract it. 
+Clone this repository ``` git clone https://github.com/BeeChains/openaihandshakepyflaskapp.git ``` or download the ZIP file and extract it. 
 
 Open a terminal or command prompt in the project directory.
 
